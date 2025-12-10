@@ -5,7 +5,7 @@
 ![app screenshots](https://github.com/RUD0MIR/Clean-Architecture-Travel-App/blob/main/app_screenshots.png?raw=true)
 
 
-##### При создании приложения использовались следующие технлогии:
+#### При создании приложения использовались следующие технлогии:
 
 - Kotlin
 - Kotlin Coroutines
